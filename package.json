@@ -50,6 +50,7 @@
     "access": "public"
   },
   "scripts": {
+    "start": "node dist/cli.js",
     "test": "jest",
     "test:coverage": "npm test --coverage",
     "test:badges": "npm run test:coverage  && jest-coverage-badges output ./badges",
@@ -98,6 +99,6 @@
     }
   },
   "bin": {
-    "mycli": "./bin/cli.js"
+    "rule-engine": "./bin/cli.js"
   }
 }

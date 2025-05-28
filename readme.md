@@ -227,41 +227,24 @@ Badges above represent live coverage stats for:
 - [![badge-lines](badges/badge-lines.svg)](badges/badge-lines.svg)
 - [![badge-statements](badges/badge-statements.svg)](badges/badge-statements.svg)
 
-<!-- ## Breaking Change
-
-Due to a breaking change in
-the [rule-engine](https://github.com/Arunkumarcs/rule-engine/releases/tag/v3.0.1)
-old versions might break when newly installed from `npm`.
-
-- 🔎 Native [JMESPath](https://jmespath.org/)  support for data querying
-- 🧰 Built-in caching using [`lru-cache`](https://isaacs.github.io/node-lru-cache/)  for better performance
-
-**Therefore, please move to vv3.0.3 or later.**
- -->
 
 <!-- ## Author
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arunkumar--h-blue?logo=linkedin)](https://www.linkedin.com/in/arunkumar-h-0716b6104)
-[![Email](https://img.shields.io/badge/Email-arunkumar.h.in.1991@gmail.com-red?logo=gmail)](mailto:arunkumar.h.in.1991@gmail.com) -->
+[![Email](https://img.shields.io/badge/Email-arunkumar.h.in.1991@gmail.com-red?logo=gmail)](mailto:arunkumar.h.in.1991@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Arunkumarcs-black?logo=github)](https://github.com/Arunkumarcs) -->
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-Arunkumarcs-black?logo=github)](https://github.com/Arunkumarcs) -->
-
-
-## Contributors
-
+## 🙌 Contributors
 <a href="https://www.linkedin.com/in/arunkumar-h-0716b6104">
   <img src="https://avatars.githubusercontent.com/Arunkumarcs" width="40" style="border-radius: 50%;" />
-</a> <a href="https://github.com/mohanc1989">
+</a> 
+<!-- <a href="https://github.com/mohanc1989">
   <img src="https://avatars.githubusercontent.com/mohanc1989" width="40" style="border-radius: 50%;" />
-</a>
+</a> -->
 
 
 ## 📄 License
-
 - **Code**: Licensed under the [MIT License](./LICENSE)
-
 <!-- The detailed list of Open Source dependencies can be found in Fossa report. -->
-
 <!-- [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArunkumarcs%2Frule-engine.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FArunkumarcs%2Frule-engine?ref=badge_large&issueType=license) -->
 
 <!-- ## 🧾 SBOM
